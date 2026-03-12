@@ -1,4 +1,4 @@
-# Hi, I'm Kobe.
+# Hi, hello, bonjour, hola, I'm Kwabena - Kobe for short.
 
 Frontend developer and UI designer based in Edmonton, Alberta.
 
@@ -23,3 +23,7 @@ Right now I'm exploring:
 - Next.js applications
 - Content-driven web architecture
 - Frontend performance and usability
+
+## Writing
+I occasional write about development, design, and technology.
+[Writing](https://kobexamoh.me/blog)
