@@ -1,10 +1,10 @@
-# Hi, hello, bonjour, hola, I'm Kwabena - Kobe for short.
+# Hi, hello, bonjour, hola, I'm Kobe.
 
 Frontend developer and UI designer based in Edmonton, Alberta.
 
 I build clear and accessible web experiences that help organizations communicate complex information. Much of my work sits at the intersection of frontend development, design, and content systems.
 
-Currently working at the **University of Alberta** designing and maintaining large institutional websites.
+Currently working at the **University of Alberta** helping to maintain and design large institutional websites and pages for marketing and communications' needs.
 
 ## What I work with:
 
