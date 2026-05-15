@@ -25,5 +25,4 @@ Right now I'm exploring:
 - Frontend performance and usability
 
 ## Writing
-I occasional write about development, design, and technology.
-[Writing](https://kobexamoh.me/blog)
+I occasionally [write](https://kobexamoh.me/blog) about development, design, and technology.
