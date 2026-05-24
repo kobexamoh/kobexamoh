@@ -4,7 +4,7 @@ Frontend developer and UI designer based in Edmonton, Alberta.
 
 I build clear and accessible web experiences that help organizations communicate complex information. Much of my work sits at the intersection of frontend development, design, and content systems.
 
-Currently working at the **University of Alberta** helping to maintain and design large institutional websites and pages for marketing and communications' needs.
+Currently working at the [**University of Alberta**](https://www.ualberta.ca/en/index.html) helping to maintain and design large institutional websites and pages for marketing and communications' needs.
 
 ## What I work with:
 
@@ -14,7 +14,7 @@ Currently working at the **University of Alberta** helping to maintain and desig
 - HTML / CSS
 - Tailwind
 - Git
-- WordPres / CMS platforms
+- WordPress / CMS platforms
 
 ## Current focus
 Right now I'm exploring:
